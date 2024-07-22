@@ -1,8 +1,10 @@
 ## Hi there 👋, I'm pixelneer.
 
 ## 💻 About Me
-- I'm a highschooler 📖
+- I'm a highschooler. 📖
 - I'm also a content creator. (@VJYCraft & @Pixelneeryt) 🎥
+- Open to collabs and learning! 🧠
+- Contact me at discord! (pixelneer) 📱
 
 ## ⚙ Programming Languages I Use
 <img src="https://github.com/user-attachments/assets/03fa49e8-16ef-447b-bd81-eb94a6a7c94e" width="50" height="50"/>
